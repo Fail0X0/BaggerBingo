@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flirt Bingo</string>
+    <string name="language_sw">Sprache</string>
+    <string name="language_german">Deutsch</string>
+    <string name="bar_middle_text">Tipsy</string>
+    <string name="toast_empty">Please enter the name of the Player</string>
+    <string name="setting_text">Settings</string>
+    <string name="rounds">"Number of rounds : "</string>
+    <string name="joker_set">"Number of jokers : "</string>
+    <string name="explanation_text">How do I play?\n\n
+Flirt Bingo is a party-flirt game for 2-10 people.\n\n
+You just roll the dice and try to find someone you like, with the given attributes.\n\n
+Your friends do the same, except for they try to find someone who is NOT your type.\n\n
+The person who finds someone fitting and said "Flirt Bingo" first, sets the target.\n\n
+If you roll a joker, you can just choose the attribute yourself. Every Player also has universal jokers for all attributes. But these are limited!\n\n
+The goal is to get a contact of the person (for example the phone number).\n\n
+If you couldn\'t accomplish it, you need to role a punishment over fail.\n\n
+!!! The winner gets all drinks from the looser. !!!</string>
+    <string name="my_hint">Type in your name</string>
+    <string name="toast_maxPlayer">Maximum players reached</string>
+    <string name="round">Round</string>
+    <string name="menu_btn">Menu</string>
+    <string name="bar_min_text">Sober</string>
+    <string name="bar_max_text">Drunk</string>
+    <string name="toast_joker">Run out of jokers</string>
+    <string name="toast_win">Nice!</string>
+    <string name="bronze_text">No one</string>
+    <string name="sliver_text">No one</string>
+    <string name="head_haircolor">Haircolor</string>
+    <string name="head_clothes">Clothes</string>
+    <string name="head_heigth">Height</string>
+    <string name="trophy_text">No one</string>
+    <string name="advanced">Fun</string>
+    <string name="beginner">Lame</string>
+    <string name="expert">Action</string>
+    <string name="winner_text">" is the winner and gets free drinks from "</string>
+    <string name="level">Difficulty</string>
+    <string name="settings">Settings</string>
+    <string name="library">How to play</string>
+    <string name="play_txt">Play</string>
+    <string name="arrow">Read first</string>
+</resources>

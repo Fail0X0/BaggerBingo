@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Bagger Bingo</string>
+
+    <!--MenuActivity-->
+    <string name="settings">Einstellungen</string>
+    <string name="library">Anleitung</string>
+    <string name="play_txt">Spielen</string>
+    <string name="arrow">Erst lesen</string>
+
+    <!--HowToActivity-->
+    <string name="explanation_text">Wie spiele ich?\n\n
+Bagger Bingo ist ein Feier-Flirt-Spiel für 2-10 Leute.\n\n
+Du würfelst einfach und musst nach den zufällig ausgewürfelten Attributen jemanden finden, der dir gefällt.\n\n
+Deine Freunde tun dasselbe, allerdings mit dem Unterschied, dass sie jemanden finden müssen, der NICHT dein Typ ist.\n\n
+Wer zuerst jemand Passenden findet und \"Bagger Bingo\" ruft, legt die Person fest.\n\n
+Würfelst du einen Joker, kannst du dir das Attribut aussuchen. Jeder Spieler hat ebenfalls Universal-Joker für alle Attribute. Diese sind aber begrenzt!\n\n
+Das Ziel ist es, einen Kontakt zu der Person zu bekommen (zB. die Handynummer).\n\n
+Wurde dies nicht geschafft, müsst ihr über Fail eine Strafe aufdecken.\n\n
+!!! Der Gewinner bekommt vom Verlierer den Abend ausgegeben. !!!</string>
+
+    <!--SettingsActivity-->
+    <string name="language_sw">Language</string>
+    <string name="setting_text">Einstellungen</string>
+    <string name="language_german">German</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="rounds">"Rundenanzahl : "</string>
+    <string name="joker_set">"Jokeranzahl : "</string>
+
+    <!--ChooseActivity-->
+    <string name="my_hint">Name eingeben</string>
+
+    <string name="level">Spielmodus</string>
+
+    <string name="beginner">Langweilig</string>
+    <string name="advanced">Spaßig</string>
+    <string name="expert">Action</string>
+
+    <string name="toast_empty">Bitte gib die Namen der Spieler ein</string>
+    <string name="toast_maxPlayer">Maximale Spieleranzahl erreicht</string>
+
+    <!--GameActivity-->
+    <string name="name_text" translatable="false">Dein Name</string>
+
+    <string name="round">Runde</string>
+
+    <string name="head_haircolor">Haarfarbe</string>
+    <string name="haircolor1" translatable="false">Haarfarbe1</string>
+    <string name="haircolor2" translatable="false">Haarfarbe2</string>
+    <string name="haircolor3" translatable="false">Haarfarbe3</string>
+
+    <string name="head_clothes">Kleidung</string>
+    <string name="clothes1" translatable="false">Kleidung1</string>
+    <string name="clothes2" translatable="false">Kleidung2</string>
+    <string name="clothes3" translatable="false">Kleidung3</string>
+
+    <string name="head_heigth">Größe</string>
+    <string name="heigth1" translatable="false">Größe1</string>
+    <string name="heigth2" translatable="false">Größe2</string>
+    <string name="heigth3" translatable="false">Größe3</string>
+
+    <string name="head_shirtcolor" translatable="false">Accessoires</string>
+    <string name="shirtcolor1" translatable="false">Oberteilfarbe1</string>
+    <string name="shirtcolor2" translatable="false">Oberteilfarbe2</string>
+    <string name="shirtcolor3" translatable="false">Oberteilfarbe3</string>
+
+    <string name="flirt_text" translatable="false">Hier muss der sehr sehr sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr  sehr lange Spruch stehen.</string>
+
+    <string name="menu_btn">Menü</string>
+    <string name="win_btn" translatable="false">Win</string>
+    <string name="joker_btn" translatable="false">Joker</string>
+    <string name="fail_btn" translatable="false">Fail</string>
+    <string name="stop_btn" translatable="false">Stop</string>
+
+    <string name="bar_min_text">Nüchtern</string>
+    <string name="bar_middle_text">Angetrunken</string>
+    <string name="bar_max_text">Voll</string>
+
+    <string name="toast_joker">Joker sind aufgebraucht</string>
+    <string name="toast_win">MEGA!</string>
+
+    <!--FinishActivity-->
+    <string name="trophy_text">Keiner</string>
+    <string name="sliver_text">Keiner</string>
+    <string name="bronze_text">Keiner</string>
+    <string name="winner_text">" bekommt als Gewinner alles ausgegeben von "</string>
+
+</resources>
